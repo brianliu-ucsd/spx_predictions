@@ -1,4 +1,4 @@
-# Trading Bot
+# SPX Prediction Model
 
 The ML model was created using a Keras implementation of a LSTM, and is designed to predict tick-by-tick prices of the SPX index.
 
